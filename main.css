@@ -1,1 +1,20 @@
+h3 {
+    color: #89cff0;
+    font-size: 20px;
+    font-weight:bold;
+    }
+  
+.box-1{background-color:#333; color: #fff; border:5px teal solid; padding-left:20px; padding-right:20px;margin-top:20px;}
+.box-2{background-color:#333; color: #fff; border:5px teal solid; padding-left:20px; padding-right:20px;margin-top:20px;}
 
+.unit-1{color: red;
+    font-size: 20px;
+    font-weight:bold}
+
+body {
+    background-image: url("images/1.gif");
+    background-repeat: repeat;
+    background-size: 100%;
+    background-color: 226, 60%, 52%;
+   
+}
