@@ -48,3 +48,7 @@ body {
         font-size: 35px;
         font-weight:bold;
         }
+
+        p {
+          font-family: "Comic sans ms", Times, serif;
+        }
